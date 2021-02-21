@@ -6,3 +6,5 @@ I'm currently working on [BotSauce](https://www.github.com/BotSauce/BotSauce), t
 btw pronouns: he/him || they/them
 
 yeet
+
+![Monty's GitHub stats](https://github-readme-stats.vercel.app/api?username=montylion&theme=nightowl&show_icons=true)
