@@ -7,4 +7,4 @@ btw pronouns: he/him || they/them
 
 yeet
 
-![Monty's GitHub stats](https://github-readme-stats.vercel.app/api?username=montylion&theme=nightowl&show_icons=true?count_private=true)
+![Monty's GitHub stats](https://github-readme-stats.vercel.app/api?username=montylion&theme=nightowl&show_icons=true&count_private=true&bg_color=#969acf)
