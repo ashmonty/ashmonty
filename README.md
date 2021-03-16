@@ -8,4 +8,4 @@ pronouns: whatever idrc
 
 yeet
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=montylion&show_icons=true&count_private=true&bg_color=161B22&title_color=FF8593&text_color=CBCCE7&icon_color=CBCCE7&hide_border=true&custom_title=My%20GitHub%20Stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=montylion&show_icons=true&count_private=true&bg_color=161B22&title_color=2F90FF&text_color=FFFFFF&icon_color=2F90FF&custom_title=My%20GitHub%20Stats)
