@@ -11,5 +11,5 @@ pronouns: whatever idrc
 
 yeet
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=montylion&show_icons=true&count_private=true&bg_color=161B22&title_color=2F90FF&text_color=ECF4FF&icon_color=2F90FF&hide_border=true&custom_title=My%20GitHub%20Stats)](https://github.com/montylion?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montylion&layout=compact&bg_color=161B22&title_color=2F90FF&text_color=ECF4FF&icon_color=2F90FF&hide_border=true)](https://github.com/montylion?tab=repositories&q=&type=&language=javascript&sort=)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=montylion&show_icons=true&count_private=true&bg_color=2D333B&title_color=2F90FF&text_color=ECF4FF&icon_color=2F90FF&hide_border=true&custom_title=My%20GitHub%20Stats)](https://github.com/montylion?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montylion&layout=compact&bg_color=2D333B&title_color=2F90FF&text_color=ECF4FF&icon_color=2F90FF&hide_border=true)](https://github.com/montylion?tab=repositories&q=&type=&language=javascript&sort=)
