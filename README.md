@@ -16,4 +16,4 @@ yeet
 
 Oh btw here's a Spotify-widget-thingy-idk
 
-[![The aforementioned Spotify-widget-thingy-idk](https://spotify-github-profile.vercel.app/api/view?uid=hpf4k9mlfq4fv7wm9pdjbbl1i&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=hpf4k9mlfq4fv7wm9pdjbbl1i&redirect=true)
+[![If you're seeing this either your internet is trash, you blocked something, or I'm listening to an ad](https://spotify-github-profile.vercel.app/api/view?uid=hpf4k9mlfq4fv7wm9pdjbbl1i&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=hpf4k9mlfq4fv7wm9pdjbbl1i&redirect=true)
