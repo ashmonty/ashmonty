@@ -12,4 +12,4 @@ You can find most of my stuff on [my website](https://www.monty.ga/) or in the [
 
 Listening/recently listened to:
 
-[![If you're seeing this either your internet is trash, you blocked something, or I got an ad](https://spotify-github-profile.vercel.app/api/view?uid=hpf4k9mlfq4fv7wm9pdjbbl1i&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=hpf4k9mlfq4fv7wm9pdjbbl1i&redirect=true)
+[![If you're seeing this either your internet is trash, you blocked something, or I got an ad](https://spotify-github-profile.vercel.app/api/view.svg?uid=hpf4k9mlfq4fv7wm9pdjbbl1i&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=hpf4k9mlfq4fv7wm9pdjbbl1i&redirect=true)
