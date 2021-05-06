@@ -13,3 +13,8 @@ You can find most of my stuff on [my website](https://www.monty.ga/) or in the [
 Listening/recently listened to:
 
 [![If you're seeing this either your internet is trash, you blocked something, or I got an ad](https://spotify-github-profile.vercel.app/api/view.svg?uid=hpf4k9mlfq4fv7wm9pdjbbl1i&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=hpf4k9mlfq4fv7wm9pdjbbl1i&redirect=true)
+
+
+Oh btw I hingly doubt anyone's gonna use this, but I have a Ko-fi
+
+<a href='https://ko-fi.com/G2G44JP3U' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
