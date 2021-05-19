@@ -2,7 +2,7 @@
 
 
 
-Ciao! You've reached Monty's Github profile via a warp pipe. Using the controller is a piece of cake. Press A to jump and B to attack. Press B to read the signs, too. Use the Control Stick in the center of the controller to move Mario around. Now, head for the castle.
+Ciao! You've reached Monty's GitHub profile via a warp pipe. Using the controller is a piece of cake. Press A to jump and B to attack. Press B to read the signs, too. Use the Control Stick in the center of the controller to move Mario around. Now, head for the castle.
 
 You can find most of my stuff on [my website](https://www.monty.ga/) or in the [Repositories tab](https://github.com/montylion?tab=repositories).
 
