@@ -9,4 +9,4 @@ You can find most of my stuff on [my website](https://www.monty.ga/) or in the [
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=montylion&show_icons=true&count_private=true&include_all_commits=true&theme=shades-of-purple&hide_border=true&custom_title=My%20sad%20and%20disappointing%20GitHub%20Stats)](https://github.com/montylion?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montylion&b&layout=compact&theme=shades-of-purple&hide_border=true&custom_title=I%27m%20sorry,%20it%27s%20JavaScript)](https://github.com/montylion?tab=repositories&q=&type=&language=javascript&sort=)
 
-No way, ![](https://komarev.com/ghpvc/?username=montylion&color=969acf&label=) profile views! That's more than 0!
+No way, ![](https://komarev.com/ghpvc/?username=montylion&color=555555&label=&style=flat-square) profile views! That's more than 0!
