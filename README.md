@@ -17,5 +17,3 @@ You can find most of my stuff on [my website](https://www.monty.ga/) or in the [
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=montylion&count_private=true&theme=material-palenight&hide_border=true&custom_title=My%20sad%20and%20disappointing%20GitHub%20Stats)](https://github.com/montylion?tab=repositories)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=montylion&theme=material-palenight&hide_border=true&custom_title=I%27m%20sorry,%20it%27s%20JavaScript)](https://github.com/montylion?tab=repositories&q=&type=&language=javascript&sort=)
-
-No way, ![](https://komarev.com/ghpvc/?username=montylion&color=555555&label=&style=for-the-badge) profile views! That's more than 0!
