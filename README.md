@@ -14,11 +14,6 @@ You can find most of my stuff on [my website](https://monty.ga/) or in the [repo
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-
-
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=montylion&count_private=true&theme=material-palenight&hide_border=true&custom_title=My%20sad%20and%20disappointing%20GitHub%20Stats)](https://github.com/montylion?tab=repositories)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=montylion&theme=material-palenight&hide_border=true&custom_title=I%27m%20sorry,%20it%27s%20JavaScript)](https://github.com/montylion?tab=repositories&q=&type=&language=javascript&sort=)
 
 ### Hit me up on
