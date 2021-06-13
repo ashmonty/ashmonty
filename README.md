@@ -14,9 +14,14 @@ You can find most of my stuff on [my website](https://monty.ga/) or in the [repo
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Discord (Monty#3581)](https://discord-md-badge.vercel.app/api/shield/406125028065804289)
+
 
 [![My go-to Spotify playlist](https://img.shields.io/badge/My%20goto%20Spotify%20playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki?si=42f3ec6e4098402f)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=montylion&count_private=true&theme=material-palenight&hide_border=true&custom_title=My%20sad%20and%20disappointing%20GitHub%20Stats)](https://github.com/montylion?tab=repositories)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=montylion&theme=material-palenight&hide_border=true&custom_title=I%27m%20sorry,%20it%27s%20JavaScript)](https://github.com/montylion?tab=repositories&q=&type=&language=javascript&sort=)
+
+### Hit me up on
+![Discord (Monty#3581)](https://discord-md-badge.vercel.app/api/shield/406125028065804289)
+
+[![Twitter (montylion_)](https://img.shields.io/badge/montylion_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/montylion_)
