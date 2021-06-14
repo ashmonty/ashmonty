@@ -20,3 +20,5 @@ You can find most of my stuff on [my website](https://monty.ga/) or in the [repo
 ![Discord (Monty#3581)](https://discord-md-badge.vercel.app/api/shield/406125028065804289)
 [![Twitter (montylion_)](https://img.shields.io/badge/montylion_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/montylion_)
 [![Email (monty.github@gmail.com)](https://img.shields.io/badge/monty.github-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monty.github@gmail.com)
+
+^[*i made this btw*](https://github.com/montylion/discord-md-badge)
