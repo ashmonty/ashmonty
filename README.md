@@ -2,23 +2,21 @@
 
 You can find most of my stuff on [my website](https://monty.ga/) or in the [repositories tab](https://github.com/montylion?tab=repositories).
 
-![Pronouns: any, preferrably they/them](https://img.shields.io/static/v1?style=for-the-badge&label=PRONOUNS&message=any,%20preferrably%20they/them&color=ae81ce)
-![Manjaro Linux (KDE)](https://img.shields.io/badge/Manjaro%20(KDE)-24242c?style=for-the-badge&logo=manjaro&logoColor=34BC5C)
-[![My go-to Spotify playlist](https://img.shields.io/badge/My%20goto%20Spotify%20playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki?si=42f3ec6e4098402f)
+![Pronouns: any, preferrably they/them](https://img.shields.io/static/v1?style=flat&label=Pronouns&message=any,%20preferrably%20they/them&color=ae81ce)
 
-### I do stuff with
-![JavaScript (pls no hate)](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Next JS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
-![HTML 5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS 3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+Code in ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) and, usually, ![Next.js](https://img.shields.io/badge/Next%2Ejs-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=montylion&theme=material-palenight&hide_border=true&custom_title=I%27m%20sorry,%20it%27s%20JavaScript)](https://github.com/montylion?tab=repositories&q=&type=&language=javascript&sort=)
 
-### Hit me up on
-![Discord (Monty#3581)](https://discord-md-badge.vercel.app/api/shield/406125028065804289)
-[![Twitter (montylion_)](https://img.shields.io/badge/montylion_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/montylion_)
-[![Email (monty.github@gmail.com)](https://img.shields.io/badge/monty.github-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monty.github@gmail.com)
+Currently hosting stuff on ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white), ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) & ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 
-^[*i made this btw*](https://github.com/montylion/discord-md-badge)
+
+
+[![your guess is as good as mine.](https://img.shields.io/badge/your%20guess%20is%20as%20good%20as%20mine.-1db954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki?si=42f3ec6e4098402f) is my go-to Spotify playlist.
+
+### Hit me up on
+![Discord (Monty#3581)](https://discord-md-badge.vercel.app/api/shield/406125028065804289?style=flat)
+[![Twitter (montylion_)](https://img.shields.io/badge/montylion__-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/montylion_)
+[![Email (monty.github@gmail.com)](https://img.shields.io/badge/monty.github-D14836?style=flat&logo=gmail&logoColor=white)](mailto:monty.github@gmail.com)
+
+^[*I made the Discord shield-badge-thingy btw*](https://github.com/montylion/discord-md-badge)
