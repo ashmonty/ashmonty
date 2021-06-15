@@ -20,3 +20,5 @@ Currently hosting stuff on ![Vercel](https://img.shields.io/badge/Vercel-%230000
 [![Email (monty.github@gmail.com)](https://img.shields.io/badge/monty.github-D14836?style=flat&logo=gmail&logoColor=white)](mailto:monty.github@gmail.com)
 
 ^[*I made the Discord shield-badge-thingy btw*](https://github.com/montylion/discord-md-badge)
+
+Oh I also have a [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/montylion) I guess
