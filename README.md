@@ -2,8 +2,6 @@
 
 You can find most of my stuff on [my website](https://monty.ga/) or in the [repositories tab](https://github.com/montylion?tab=repositories).
 
-![Pronouns: any, preferrably they/them](https://img.shields.io/static/v1?style=flat&label=Pronouns&message=any,%20preferrably%20they/them&color=ae81ce)
-
 Code in ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) and, usually, ![Next.js](https://img.shields.io/badge/Next%2Ejs-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=montylion&theme=material-palenight&hide_border=true&custom_title=I%27m%20sorry,%20it%27s%20JavaScript)](https://github.com/montylion?tab=repositories&q=&type=&language=javascript&sort=)
