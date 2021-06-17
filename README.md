@@ -1,4 +1,4 @@
-<h1 align=center style="color: #ae81ce">Hey, I'm Monty!</h1>
+<h1 align=center style="color: #ae81ce">Hi, I'm Monty!</h1>
 
 You can find most of my stuff on [my website](https://monty.ga/) or in the [repositories tab](https://github.com/montylion?tab=repositories).
 
