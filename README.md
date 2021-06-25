@@ -1,6 +1,6 @@
 <h1 align=center style="color: #ae81ce">Hi, I'm Monty!</h1>
 
-You can find most of my stuff on [my website](https://monty.ga/) or in the [repositories tab](https://github.com/montylion?tab=repositories).
+You can find most of my stuff on [my website](https://montylion.dev/) or in the [repositories tab](https://github.com/montylion?tab=repositories).
 
 Code in ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) and, usually, ![Next.js](https://img.shields.io/badge/Next%2Ejs-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 
