@@ -13,7 +13,7 @@ Currently hosting stuff on ![Vercel](https://img.shields.io/badge/Vercel-%230000
 [![your guess is as good as mine.](https://img.shields.io/badge/your%20guess%20is%20as%20good%20as%20mine.-1db954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki?si=42f3ec6e4098402f) is my go-to Spotify playlist.
 
 ### Hit me up on
-![Discord (Monty#3581)](https://discord-md-badge.vercel.app/api/shield/406125028065804289?style=flat-square)
+[![Discord (Monty#3581)](https://discord-md-badge.vercel.app/api/shield/406125028065804289?style=flat-square)](https://github.com/montylion/discord-md-badge)
 [![Twitter (montylion_)](https://img.shields.io/badge/montylion__-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/montylion_)
 [![Email (hey@montylion.dev)](https://img.shields.io/badge/hey@montylion.dev-737ABF?style=flat-square&logo=gmail&logoColor=white)](mailto:hey@montylion.dev)
 
