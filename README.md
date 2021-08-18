@@ -1,9 +1,8 @@
 <h1 align=center style="color: #ae81ce">Hi, I'm Monty!</h1>
 
-Check out my stuff on [my website](https://montylion.dev/) or in the [repositories tab](https://github.com/montylion?tab=repositories)!
-Most of it is made with JavaScript and Next.js, or plain JavaScript.
+I make stuff™ in JavaScript & Node.js as a hobby. Sometimes it's useful stuff, sometimes it's just random stuff made for fun... Ok tbh it's usually the latter.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=montylion&theme=material-palenight&hide_border=true&custom_title=I%27m%20sorry,%20it%27s%20JavaScript)](https://github.com/montylion?tab=repositories&q=&type=&language=javascript&sort=)
+Feel free to check out my stuff™ on [my website](https://montylion.dev/) or in the [repositories tab](https://github.com/montylion?tab=repositories)!
 
 ### Hit me up on
 [![Discord (montylion#3581)](https://discord-md-badge.vercel.app/api/shield/406125028065804289?style=flat-square)](https://github.com/montylion/discord-md-badge)
