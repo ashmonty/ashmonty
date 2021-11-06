@@ -2,7 +2,7 @@
 
 I make stuff™ in JavaScript & Node.js as a hobby. Sometimes it's useful stuff, sometimes it's just random stuff made for fun... Ok tbh it's usually the latter.
 
-Feel free to check out my stuff™ on [my website](https://ashmonty.com/) or in the [repositories tab](?tab=repositories)!
+Feel free to check out my stuff™ on [my website](https://ashmonty.com/) or in the [repositories tab](https://github.com/ashmonty?tab=repositories)!
 
 ### Hit me up on
 [![Discord (Monty#3581)](https://discord-md-badge.vercel.app/api/shield/406125028065804289?style=flat-square)](https://github.com/ashmonty/discord-md-badge)
