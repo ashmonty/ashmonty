@@ -6,8 +6,8 @@ Feel free to check out my stuff™ on [my website](https://ashmonty.com/) or in 
 
 ### Hit me up on
 [![Discord (Monty#3581)](https://discord-md-badge.vercel.app/api/shield/406125028065804289?style=flat-square)](https://github.com/ashmonty/discord-md-badge)
-[![Twitter (ashmonty_)](https://img.shields.io/badge/ashmonty__-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ashmonty_)
-[![Email (hey@ashmonty.com)](https://img.shields.io/badge/hey@ashmonty.com-BD8EE1?style=flat-square&logo=gmail&logoColor=white)](mailto:hey@ashmonty.com)
+[![Twitter (ashmmonty)](https://img.shields.io/badge/ashmmonty-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ashmmonty)
+[![Email (hey@ashmonty.com)](https://img.shields.io/badge/hey@ashmonty.com-FF6B6B?style=flat-square&logo=gmail&logoColor=white)](mailto:hey@ashmonty.com)
 
 ^[*I made the Discord shield-badge-thingy btw*](https://github.com/ashmonty/discord-md-badge)
 
