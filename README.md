@@ -1,14 +1,11 @@
-<h1 align=center>Hi, I'm Ash!</h1>
+### Hi, I'm Ash!
 
-I make stuff™ in JavaScript & Node.js as a hobby. Sometimes it's useful stuff, sometimes it's just random stuff made for fun... Ok tbh it's usually the latter.
+I'm Ash, an idiot who makes stuff™:
 
-Feel free to check out my stuff™ on [my website](https://ashmonty.com/) or in the [repositories tab](https://github.com/ashmonty?tab=repositories)!
+- If you're in search of a customizable Discord badge for your GitHub such as this one ![my Discord badge](https://dcbadge.vercel.app/api/shield/406125028065804289?style=flat), look no further! [discord-md-badge](https://github.com/ashmonty/discord-md-badge) is exactly that!
+- If you'd like to pretend to be an Arch Linux user (not really sure why you'd want to but who am I to judge), check [this](https://github.com/ashmonty/neofetch-but-its-always-arch) out!
+- If you'd rather make fun of my cringy tweets, you will find plenty at my Twitter [@ashmmonty](https://twitter.com/ashmmonty)!
+- I have a cool-ass website at [ashmonty.com](https://www.ashmonty.com/). *I grew it myself!*
+- Give me money [here](https://ko-fi.com/ashmonty)... please? No? Uh, ok. figured it'd be worth a try.
 
-### Hit me up on
-[![Discord (Monty#3581)](https://discord-md-badge.vercel.app/api/shield/406125028065804289?style=flat-square)](https://github.com/ashmonty/discord-md-badge)
-[![Twitter (ashmmonty)](https://img.shields.io/badge/ashmmonty-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ashmmonty)
-[![Email (hey@ashmonty.com)](https://img.shields.io/badge/hey@ashmonty.com-FF6B6B?style=flat-square&logo=gmail&logoColor=white)](mailto:hey@ashmonty.com)
-
-^[*I made the Discord shield-badge-thingy btw*](https://github.com/ashmonty/discord-md-badge)
-
-Oh I also have a [Ko-fi](https://ko-fi.com/ashmonty) I guess
+And of course, don't forget to blackmail me at [pleasedontactuallyblackmailme@ashmonty.com](mailto:pleasedontactuallyblackmailme@ashmonty.com)
