@@ -12,4 +12,4 @@ And of course, don't forget to blackmail me at [pleasedontactuallyblackmailme@as
 
 <br />
 <br />
-<p align="right"><a target="_blank" href="https://en.pronouns.page/@ashmonty">she/they</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki?si=9a4197f4dddb40f1">playlist</a> • <a target="_blank" href="https://twitter.com/ashmmonty">twitter</a> • <a target="_blank" href="mailto:hey@ashmonty.com">email</a> • <a target="_blank" href="https://ko-fi.com/ashmonty">Ko-fi</a></p>
+<p align="right"><a target="_blank" href="https://en.pronouns.page/@ashmonty">they/she</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki?si=9a4197f4dddb40f1">playlist</a> • <a target="_blank" href="https://twitter.com/ashmmonty">twitter</a> • <a target="_blank" href="mailto:hey@ashmonty.com">email</a> • <a target="_blank" href="https://ko-fi.com/ashmonty">Ko-fi</a></p>
