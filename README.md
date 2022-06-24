@@ -15,4 +15,4 @@ And of course, don't forget to blackmail me at [pleasedontactuallyblackmailme@as
 
 <br />
 <br />
-<p align="right"><a target="_blank" href="https://en.pronouns.page/@ashmonty">they/she</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki?si=9a4197f4dddb40f1">playlist</a> • <a target="_blank" href="https://twitter.com/ashmlnt">twitter</a> • <a target="_blank" href="mailto:hey@ashm.dev">email</a> • <a target="_blank" href="https://www.buymeacoffee.com/ashm">buy me skittles</a></p>
+<p align="right"><a target="_blank" href="https://en.pronouns.page/@ashm">they/she</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki?si=9a4197f4dddb40f1">playlist</a> • <a target="_blank" href="https://twitter.com/ashmlnt">twitter</a> • <a target="_blank" href="mailto:hey@ashm.dev">email</a> • <a target="_blank" href="https://www.buymeacoffee.com/ashm">buy me skittles</a></p>
