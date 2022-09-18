@@ -2,8 +2,8 @@
 
 I'm Ash, an idiot who makes stuff™:
 
-- If you wanna read text in TikTok's Text To Speech voices and download the audio as an mp3, check out [TikTok TTS](https://ashm.dev/tiktok-tts)!
 - To create legit-looking GitHub links that rickroll the visitor, check out [microsoftgithub.com](https://microsoftgithub.com/usage)
+- If you wanna "tweet" from your "Nintendo™ 64", check out [Twitter 64](https://ashm.dev/twitter64)!
 - If you're in search of a customizable Discord badge for your GitHub such as this one ![my Discord badge](https://dcbadge.vercel.app/api/shield/406125028065804289?style=flat), look no further! [discord-md-badge](https://github.com/ashmonty/discord-md-badge) is exactly that!
 - Make sure to check out my cool ass website at [ashm.dev](https://ashm.dev/)!
 - To download .otf fonts from any Adobe Fonts Web Project/Typekit URL, take a look at [Adobe Fonts dl](https://ashm.dev/adobe-fonts-dl)!
