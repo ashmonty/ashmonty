@@ -8,11 +8,11 @@ I'm Ash, an idiot who makes stuff™:
 - Make sure to check out my cool ass website at [ashm.dev](https://ashm.dev/)!
 - To download .otf fonts from any Adobe Fonts Web Project/Typekit URL, take a look at [Adobe Fonts dl](https://ashm.dev/adobe-fonts-dl)!
 - If you'd like to pretend to be an Arch Linux user (not really sure why you'd want to but who am I to judge), check [neofetch-but-its-always-arch](https://github.com/ashmonty/neofetch-but-its-always-arch) out!
-- If you'd rather make fun of my cringy tweets, you will be able to find plenty at my [Twitter](https://twitter.com/ashmdotdev)!
+- If you'd rather make fun of my cringy tweets, you will be able to find plenty at my [Twitter](https://twitter.com/grayasash)!
 - Buy me a pack of skittles [here](https://www.buymeacoffee.com/ashm)... please? No? Uh, ok. figured it'd be worth a try.
 
 And of course, don't forget to blackmail me at [pleasedontactuallyblackmailme@ashm.dev](mailto:pleasedontactuallyblackmailme@ashm.dev).
 
 <br />
 <br />
-<p align="right"><a target="_blank" href="https://en.pronouns.page/@ashm">she/they</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki?si=9a4197f4dddb40f1">playlist</a> • <a target="_blank" href="https://twitter.com/ashmdotdev">twitter</a> • <a target="_blank" href="mailto:hey@ashm.dev">email</a> • <a target="_blank" href="https://www.buymeacoffee.com/ashm">buy me skittles</a></p>
+<p align="right"><a target="_blank" href="https://en.pronouns.page/@ashm">she/they</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki?si=9a4197f4dddb40f1">playlist</a> • <a target="_blank" href="https://twitter.com/grayasash">twitter</a> • <a target="_blank" href="mailto:hey@ashm.dev">email</a> • <a target="_blank" href="https://www.buymeacoffee.com/ashm">buy me skittles</a></p>
