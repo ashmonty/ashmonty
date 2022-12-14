@@ -12,7 +12,7 @@ I'm Ash, an idiot who makes stuff™:
 
 While you're here, feel free to check out this stuff too:
 - [ashm.dev](https://ashm.dev/): my website, where you can find some more cool stuff! It's really good! I'm being impartial!
-- [@ashgray@mas.to](https://mas.to/@ashgray): may contain cringe
+- [@ashg@tech.lgbt](https://tech.lgbt/@ashg): may contain cringe
 - [@ash0x808080@twitter.com](https://twitter.com/ash0x808080): may contain cringe (but actively falling apart)
 - [buy me a pack of skittles](https://www.buymeacoffee.com/ashm) here. please? No? Uh, ok. figured it'd be worth a try.
 
@@ -20,4 +20,4 @@ And of course, don't forget to blackmail me at [pleasedontactuallyblackmailme@as
 
 <br />
 <br />
-<p align="right"><a target="_blank" href="https://en.pronouns.page/@ashm">she/they</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki?si=9a4197f4dddb40f1">playlist</a> • <a target="_blank" href="https://mas.to/@ashgray">mastodon</a> • <a target="_blank" href="https://twitter.com/ash0x808080">twitter</a> • <a target="_blank" href="mailto:hey@ashm.dev">email</a> • <a target="_blank" href="https://www.buymeacoffee.com/ashm">buy me skittles</a></p>
+<p align="right"><a target="_blank" href="https://en.pronouns.page/@ashm">she/they</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki?si=9a4197f4dddb40f1">playlist</a> • <a target="_blank" href="https://tech.lgbt/@ashg">mastodon</a> • <a target="_blank" href="https://twitter.com/ash0x808080">twitter</a> • <a target="_blank" href="mailto:hey@ashm.dev">email</a> • <a target="_blank" href="https://www.buymeacoffee.com/ashm">buy me skittles</a></p>
