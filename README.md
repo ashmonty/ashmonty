@@ -1,6 +1,6 @@
-### Hey, I'm Ash!
+### Hey, I'm ash!
 
-I'm Ash, an idiot who makes stuff™:
+I'm ash, an idiot who makes stuff™:
 
 - [microsoftgithub.com](https://microsoftgithub.com/usage): create legit-looking GitHub links that rickroll the visitor when clicked.
 - [discord-md-badge](https://github.com/ashmonty/discord-md-badge): a customizable Discord badge for your GitHub profile/repo readmes ([![my Discord badge](https://dcbadge.vercel.app/api/shield/406125028065804289?style=flat)](https://github.com/ashmonty/discord-md-badge))
