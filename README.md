@@ -3,7 +3,7 @@
 I'm ash, an idiot who makes stuff™:
 
 - [microsoftgithub.com](https://microsoftgithub.com/usage): create legit-looking GitHub links that rickroll the visitor when clicked.
-- [discord-md-badge](https://github.com/gitlimes/discord-md-badge): a customizable Discord badge for your GitHub profile/repo readmes ([![my Discord badge](https://dcbadge.vercel.app/api/shield/406125028065804289?style=flat)](https://github.com/gitlimes/discord-md-badge))
+- [discord-md-badge](https://github.com/gitlimes/discord-md-badge): A customizable badge that shows your Discord account, a server invite, or a bot account ([![my Discord badge](https://dcbadge.vercel.app/api/shield/406125028065804289?style=flat)](https://github.com/gitlimes/discord-md-badge))
 - [spinmii](https://limes.pink/spinmii): make your mii spin 360° to your heart's content!
 - [errors](https://limes.pink/errors): render an error dialog from a Wii U or 3DS, because, duh, who doesn't wanna do that.
 - [adobe-fonts-dl](https://limes.pink/adobe-fonts-dl): download .otf fonts from any Adobe Fonts Web Project/Typekit URL.
