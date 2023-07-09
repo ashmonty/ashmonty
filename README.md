@@ -18,5 +18,5 @@ While you're here, feel free to check out this stuff too:
 <br />
 <br />
 <p align="right">
-  <a target="_blank" href="https://en.pronouns.page/@pinklimes">she/they/it</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki">playlist</a> • <a target="_blank" href="https://tech.lgbt/@ashg">mastodon</a> • <a target="_blank" href="mailto:hey@limes.pink">email</a> • <a target="_blank" href="https://www.buymeacoffee.com/ashm">buy me skittles</a>
+  <a target="_blank" href="https://en.pronouns.page/@pinklimes">she/they/it</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki">playlist</a> • <a target="_blank" href="https://fedi.limes.pink/@limes">mastodon</a> • <a target="_blank" href="mailto:hey@limes.pink">email</a> • <a target="_blank" href="https://www.buymeacoffee.com/ashm">buy me skittles</a>
 </p>
