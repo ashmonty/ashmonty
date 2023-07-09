@@ -12,7 +12,7 @@ I'm ash, an idiot who makes stuff™:
 
 While you're here, feel free to check out this stuff too:
 - [limes.pink](https://limes.pink/): my website, where you can find some more cool stuff! It's really good! I'm being impartial!
-- [@ashg@tech.lgbt](https://tech.lgbt/@ashg): may contain cringe
+- [@limes@limes.pink](https://fedi.limes.pink/@limes): may contain cringe
 - [buy me a pack of skittles](https://www.buymeacoffee.com/ashm) here. please? No? Uh, ok. figured it'd be worth a try.
 
 <br />
