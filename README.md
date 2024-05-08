@@ -14,10 +14,10 @@ I'm ash, an idiot who makes stuff™:
 While you're here, feel free to check out this stuff too:
 - [limes.pink](https://limes.pink/): my website, where you can find some more cool stuff! It's really good! I'm being impartial!
 - [@limes@limes.pink](https://fedi.limes.pink/@limes): may contain cringe
-- [buy me a pack of skittles](https://www.buymeacoffee.com/ashm) here. please? No? Uh, ok. figured it'd be worth a try.
+- [buy me a pack of skittles](https://liberapay.com/limes) here. please? No? Uh, ok. figured it'd be worth a try.
 
 <br />
 <br />
 <p align="right">
-  <a target="_blank" href="https://pronouns.cc/@limes">she/they/it</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki">playlist</a> • <a target="_blank" href="https://fedi.limes.pink/@limes">fedi</a> • <a target="_blank" href="mailto:hey@limes.pink">email</a> • <a target="_blank" href="https://www.buymeacoffee.com/ashm">buy me skittles</a>
+  <a target="_blank" href="https://pronouns.cc/@limes">she/they/it</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki">playlist</a> • <a target="_blank" href="https://fedi.limes.pink/@limes">fedi</a> • <a target="_blank" href="mailto:hey@limes.pink">email</a> • <a target="_blank" href="https://liberapay.com/limes">buy me skittles</a>
 </p>
